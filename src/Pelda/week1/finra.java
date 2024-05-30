@@ -1,4 +1,4 @@
-package week1;
+package Pelda.week1;
 
 public class finra {
 
@@ -7,6 +7,8 @@ public class finra {
     number and for numbers which are a multiple of 5, print "RA" instead of
     the numbers which are a multiple of both 3 and 5, print "FINRA" instead of
     the number.
+
+        // solutions
 
 
        */
